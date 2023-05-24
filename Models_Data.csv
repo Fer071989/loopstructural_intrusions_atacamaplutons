@@ -1,0 +1,693 @@
+feature_name,group,X,Y,Z,coord,val,strike,dip,gx,gy,gz,intrusion_contact_type,intrusion_side,intrusion_anisotropy,description
+host rock,stratigraphy,297487.7525,6849835.021,479.589386,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,298128.8723,6851651.262,586.260254,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,298373.4086,6851650.671,630.525513,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,298579.1766,6851927.169,616.728271,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,298585.7607,6852087.209,692.664185,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,299046.4549,6853137.82,837.373047,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,299178.5037,6853404.842,926.225586,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,300163.9259,6853965.629,672.535889,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,300437.199,6855198.857,575.434204,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,300622.7212,6855879.506,644.110046,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,300650.9069,6855908.515,673.884399,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,300663.3714,6855483.886,695.399048,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,300814.228,6856264.12,736.424622,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,301070.1832,6856479.181,673.647034,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,301079.8654,6856562.706,654.581055,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,301204.224,6856823.783,631.476685,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,302382.9949,6858326.707,345.49939,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,303014.2191,6859454.907,394.113403,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,303410.6455,6860761.248,464.047607,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,304516.0322,6862851.415,390.94812,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,304556.8097,6862423.779,341.653381,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,304649.5127,6864199.347,502.503387,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,304790.2312,6864733.519,566.668213,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,304938.9041,6865004.608,651.949341,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,305229.5726,6865381.232,656.407532,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,306496.6989,6866677.664,636.129883,,0,,,,,,,,,Base of La Negra Fm
+host rock,stratigraphy,309383.1084,6850565.844,705.240234,,1250,,,,,,,,,Base of Punta del Cobre Fm
+host rock,stratigraphy,312735.2346,6853841.402,551.311829,,1250,,,,,,,,,Base of Punta del Cobre Fm
+host rock,stratigraphy,312984.0724,6856323.948,521.262939,,1250,,,,,,,,,Base of Punta del Cobre Fm
+host rock,stratigraphy,313041.0123,6860584.751,647.863464,,1250,,,,,,,,,Base of Punta del Cobre Fm
+host rock,stratigraphy,313058.4599,6856620.08,502.879883,,1250,,,,,,,,,Base of Punta del Cobre Fm
+host rock,stratigraphy,313287.085,6858066.702,596.446655,,1250,,,,,,,,,Base of Punta del Cobre Fm
+host rock,stratigraphy,313353.6678,6858242.283,574.503418,,1250,,,,,,,,,Base of Punta del Cobre Fm
+host rock,stratigraphy,313440.608,6858804.091,579.894958,,1250,,,,,,,,,Base of Punta del Cobre Fm
+host rock,stratigraphy,313754.4227,6862252.481,605.956726,,1250,,,,,,,,,Base of Punta del Cobre Fm
+host rock,stratigraphy,314130.0476,6862646.272,642.003967,,1250,,,,,,,,,Base of Punta del Cobre Fm
+host rock,stratigraphy,314937.9252,6863406.095,574.297913,,1250,,,,,,,,,Base of Punta del Cobre Fm
+host rock,stratigraphy,315285.2913,6863682.325,532.184021,,1250,,,,,,,,,Base of Punta del Cobre Fm
+host rock,stratigraphy,315514.8477,6863794.684,518.728455,,1250,,,,,,,,,Base of Punta del Cobre Fm
+host rock,stratigraphy,315640.1375,6863901.629,519.340027,,1250,,,,,,,,,Base of Punta del Cobre Fm
+host rock,stratigraphy,315754.1758,6864057.608,520.866089,,1250,,,,,,,,,Base of Punta del Cobre Fm
+host rock,stratigraphy,316018.1101,6864041.876,530.480774,,1250,,,,,,,,,Base of Punta del Cobre Fm
+host rock,stratigraphy,316096.7827,6864121.348,507.662048,,1250,,,,,,,,,Base of Punta del Cobre Fm
+host rock,stratigraphy,316131.153,6864121.819,507.159119,,1250,,,,,,,,,Base of Punta del Cobre Fm
+host rock,stratigraphy,325189.3249,6866106.492,501.932098,,3750,,,,,,,,,Base of Punta del Cobre (2) Fm
+host rock,stratigraphy,325206.908,6866694.731,474.315125,,3750,,,,,,,,,Base of Punta del Cobre (2) Fm
+host rock,stratigraphy,325276.3073,6866791.272,463.730011,,3750,,,,,,,,,Base of Punta del Cobre (2) Fm
+host rock,stratigraphy,325683.739,6864682.926,538.47522,,3750,,,,,,,,,Base of Punta del Cobre (2) Fm
+host rock,stratigraphy,326004.9343,6864572.889,545.237061,,3750,,,,,,,,,Base of Punta del Cobre (2) Fm
+host rock,stratigraphy,326563.2921,6864375.821,539.122559,,3750,,,,,,,,,Base of Punta del Cobre (2) Fm
+host rock,stratigraphy,326657.7332,6864326.803,526.470215,,3750,,,,,,,,,Base of Punta del Cobre (2) Fm
+host rock,stratigraphy,326741.1382,6863906.134,539.63147,,3750,,,,,,,,,Base of Punta del Cobre (2) Fm
+host rock,stratigraphy,326817.4819,6863906.636,543.160156,,3750,,,,,,,,,Base of Punta del Cobre (2) Fm
+host rock,stratigraphy,327081.3253,6864351.322,558.865356,,3750,,,,,,,,,Base of Punta del Cobre (2) Fm
+host rock,stratigraphy,327300.6501,6867681.675,491.796417,,3750,,,,,,,,,Base of Punta del Cobre (2) Fm
+host rock,stratigraphy,327863.2808,6867121.455,571.410095,,3750,,,,,,,,,Base of Punta del Cobre (2) Fm
+host rock,stratigraphy,328118.5776,6866910.566,587.032776,,3750,,,,,,,,,Base of Punta del Cobre (2) Fm
+host rock,stratigraphy,328239.4697,6864291.185,527.809875,,3750,,,,,,,,,Base of Punta del Cobre (2) Fm
+host rock,stratigraphy,328252.4866,6866783.472,593.178833,,3750,,,,,,,,,Base of Punta del Cobre (2) Fm
+host rock,stratigraphy,328664.3728,6866818.318,608.026733,,3750,,,,,,,,,Base of Punta del Cobre (2) Fm
+host rock,stratigraphy,328698.8438,6865388.349,540.74585,,3750,,,,,,,,,Base of Punta del Cobre (2) Fm
+host rock,stratigraphy,328746.5237,6866841.292,632.830078,,3750,,,,,,,,,Base of Punta del Cobre (2) Fm
+host rock,stratigraphy,328864.0973,6866605.17,644.047729,,3750,,,,,,,,,Base of Punta del Cobre (2) Fm
+host rock,stratigraphy,340195.6912,6856978.385,1095.322388,,4150,,,,,,,,,Base of Punta del Cobre (3) Fm
+host rock,stratigraphy,340264.7087,6856154.089,957.414001,,4150,,,,,,,,,Base of Punta del Cobre (3) Fm
+host rock,stratigraphy,340544.4879,6855095.266,851.040771,,4150,,,,,,,,,Base of Punta del Cobre (3) Fm
+host rock,stratigraphy,340604.7058,6855618.486,876.176575,,4150,,,,,,,,,Base of Punta del Cobre (3) Fm
+host rock,stratigraphy,340630.6873,6856958.511,973.687622,,4150,,,,,,,,,Base of Punta del Cobre (3) Fm
+host rock,stratigraphy,340803.6861,6856946.559,986.364929,,4150,,,,,,,,,Base of Punta del Cobre (3) Fm
+host rock,stratigraphy,340845.5753,6857220.678,1013.795654,,4150,,,,,,,,,Base of Punta del Cobre (3) Fm
+host rock,stratigraphy,340928.7917,6857245.213,994.876099,,4150,,,,,,,,,Base of Punta del Cobre (3) Fm
+host rock,stratigraphy,341230.1976,6858232.686,1004.103333,,4150,,,,,,,,,Base of Punta del Cobre (3) Fm
+host rock,stratigraphy,341263.4364,6858409.764,1000.378479,,4150,,,,,,,,,Base of Punta del Cobre (3) Fm
+host rock,stratigraphy,341280.5987,6859343.629,910.910767,,4150,,,,,,,,,Base of Punta del Cobre (3) Fm
+host rock,stratigraphy,341329.8766,6857834.563,987.171997,,4150,,,,,,,,,Base of Punta del Cobre (3) Fm
+host rock,stratigraphy,341434.607,6860217.013,860.390991,,4150,,,,,,,,,Base of Punta del Cobre (3) Fm
+host rock,stratigraphy,341485.6623,6860324.57,863.769775,,4150,,,,,,,,,Base of Punta del Cobre (3) Fm
+host rock,stratigraphy,341501.4418,6860350.084,858.123718,,4150,,,,,,,,,Base of Punta del Cobre (3) Fm
+host rock,stratigraphy,341552.9372,6860420.127,830.633362,,4150,,,,,,,,,Base of Punta del Cobre (3) Fm
+host rock,stratigraphy,343110.7297,6870939.601,771.103333,,4150,,,,,,,,,Base of Punta del Cobre (3) Fm
+host rock,stratigraphy,343512.209,6870174.443,771.805481,,4150,,,,,,,,,Base of Punta del Cobre (3) Fm
+host rock,stratigraphy,344073.8498,6869626.422,800.008667,,4150,,,,,,,,,Base of Punta del Cobre (3) Fm
+host rock,stratigraphy,319347.725,6856595.748,766.799255,,4300,,,,,,,,,Base of Sierra La Sosita Fm
+host rock,stratigraphy,319619.188,6851770.484,807.140869,,4300,,,,,,,,,Base of Sierra La Sosita Fm
+host rock,stratigraphy,319677.5088,6851655.94,786.733154,,4300,,,,,,,,,Base of Sierra La Sosita Fm
+host rock,stratigraphy,319691.9384,6852662.925,801.195435,,4300,,,,,,,,,Base of Sierra La Sosita Fm
+host rock,stratigraphy,319713.2186,6852232.222,819.992004,,4300,,,,,,,,,Base of Sierra La Sosita Fm
+host rock,stratigraphy,319741.2635,6852038.635,821.422729,,4300,,,,,,,,,Base of Sierra La Sosita Fm
+host rock,stratigraphy,319749.3137,6853108.649,803.5495,,4300,,,,,,,,,Base of Sierra La Sosita Fm
+host rock,stratigraphy,319765.9484,6852078.158,816.33197,,4300,,,,,,,,,Base of Sierra La Sosita Fm
+host rock,stratigraphy,319798.9481,6852532.882,807.194519,,4300,,,,,,,,,Base of Sierra La Sosita Fm
+host rock,stratigraphy,319963.7491,6853600.423,798.997742,,4300,,,,,,,,,Base of Sierra La Sosita Fm
+host rock,stratigraphy,320276.3103,6850055.78,616.352112,,4300,,,,,,,,,Base of Sierra La Sosita Fm
+host rock,stratigraphy,320489.2892,6857997.117,767.033142,,4300,,,,,,,,,Base of Sierra La Sosita Fm
+host rock,stratigraphy,320666.7955,6849841.748,597.403015,,4300,,,,,,,,,Base of Sierra La Sosita Fm
+host rock,stratigraphy,320796.8808,6850419.048,615.097595,,4300,,,,,,,,,Base of Sierra La Sosita Fm
+host rock,stratigraphy,321092.3222,6850825.296,628.630066,,4300,,,,,,,,,Base of Sierra La Sosita Fm
+host rock,stratigraphy,321450.8247,6853507.14,691.700073,,4300,,,,,,,,,Base of Sierra La Sosita Fm
+host rock,stratigraphy,321454.2292,6852625.724,645.139221,,4300,,,,,,,,,Base of Sierra La Sosita Fm
+host rock,stratigraphy,321459.5018,6855061.356,679.281921,,4300,,,,,,,,,Base of Sierra La Sosita Fm
+host rock,stratigraphy,338694.6392,6848282.469,1075.415894,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,338714.5265,6848080.892,1054.776001,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,338715.9712,6847962.344,1051.407471,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,338788.2236,6847914.845,1066.361694,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,338900.5992,6850952.621,932.734009,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,338913.3117,6847987.911,1043.515381,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,338919.8274,6851311.773,930.707764,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339099.0162,6847684.34,1022.730591,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339234.6224,6851541.959,914.13147,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339248.3396,6851567.973,921.566833,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339329.9936,6851590.506,910.763367,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339408.8312,6847593.392,1035.86853,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339424.5436,6877886.786,814.671692,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339433.4285,6849565.209,1024.072876,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339463.1846,6878161.408,815.866943,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339464.4048,6851482.001,901.58429,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339490.8666,6849546.217,1035.177856,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339495.9593,6849564.226,1039.435059,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339496.8456,6847347.316,1025.455322,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339611.1163,6877140.058,824.347778,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339627.1354,6847189.789,1025.046387,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339646.0315,6846335.943,1023.833801,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339689.9391,6878932.792,739.485046,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339711.0244,6878964.312,731.244019,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339774.3702,6879087.883,714.457031,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339797.9973,6846360.997,1014.612732,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339818.4136,6846700.143,1018.443359,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339823.6084,6846583.596,1002.699219,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339855.435,6850412.678,940.99762,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339861.6973,6850721.807,929.909851,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,339875.0494,6876615.446,786.988586,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,340262.2958,6851092.074,969.030762,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,340327.2915,6851659.826,979.691101,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,340427.4104,6851236.681,986.235168,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,340737.1462,6876148.57,651.621765,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,340817.5758,6852044.626,932.080566,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,340863.5718,6852104.663,937.402039,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,341345.5237,6881312.599,639.877869,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,341366.4549,6881330.107,640.401489,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,341436.1773,6881441.653,629.223999,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,341763.9343,6881656.255,597.694519,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,342893.8024,6881922.229,554.017273,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,342963.5415,6881916.75,560.877441,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,343233.5555,6871583.889,821.940125,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,343576.8571,6870597.627,856.331787,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,343577.2383,6870773.194,816.702026,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,343579.0613,6870697.166,846.574402,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,343594.0763,6870573.623,875.67749,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,344060.7882,6870515.758,927.915771,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,344198.6914,6870155.666,921.134766,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,344762.0877,6869784.713,889.46814,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,345032.6863,6864145.646,911.92511,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,345048.7797,6865231.067,986.772034,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,345058.8725,6865666.237,994.512634,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,345065.4739,6864062.125,905.591309,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,345067.3844,6864470.282,905.215515,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,345122.8683,6866061.909,967.470886,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,345129.8749,6866007.391,969.283691,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,345182.4358,6863973.63,895.582458,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,345312.6797,6866508.644,920.233765,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,345451.9307,6867218.963,941.135742,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,345453.9908,6863929.705,910.418152,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,345723.1868,6862892.398,973.234924,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,345747.0874,6859044.562,1223.443848,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,345778.5246,6862648.823,956.172852,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,345901.627,6859472.165,1247.494385,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,346032.2609,6859890.268,1175.466431,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,346105.3681,6862487.371,1029.407227,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,346263.5091,6862402.346,1075.089111,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,346589.3054,6860154.161,1212.679688,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,346676.8488,6862168.104,1194.036865,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,346891.9417,6860822.383,1060.457642,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,346915.6315,6860997.459,1059.662354,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,346924.8093,6861056.485,1035.672974,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,346940.4204,6860475.699,1121.213501,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,347120.981,6861598.681,1060.175537,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,347722.1227,6873726.121,787.986267,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,347732.8707,6872637.761,846.03125,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,347738.3937,6872262.637,849.593384,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,347764.464,6873465.527,720.775513,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,347792.7502,6873298.966,759.750366,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,347822.7439,6871348.756,887.352722,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,347873.973,6873890.144,708.284668,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,347875.4613,6872789.782,819.299683,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,347882.4844,6870921.053,883.127808,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,347893.7618,6873001.348,755.44342,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,347905.974,6872973.337,765.653442,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,350699.6961,6882062.201,750.388916,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,350838.7431,6882500.288,739.319458,,4550,,,,,,,,,Base of Totoralillo Fm
+host rock,stratigraphy,342550.2407,6846113.227,1481.118652,,4790,,,,,,,,,Base of Pabellon Fm
+host rock,stratigraphy,342609.138,6846827.249,1346.984497,,4790,,,,,,,,,Base of Pabellon Fm
+host rock,stratigraphy,342715.6066,6847416.359,1261.773804,,4790,,,,,,,,,Base of Pabellon Fm
+host rock,stratigraphy,343385.8377,6851284.082,1031.580322,,4790,,,,,,,,,Base of Pabellon Fm
+host rock,stratigraphy,343455.0451,6851481.067,1032.075439,,4790,,,,,,,,,Base of Pabellon Fm
+host rock,stratigraphy,343635.1005,6852166.564,1106.338989,,4790,,,,,,,,,Base of Pabellon Fm
+host rock,stratigraphy,343836.8173,6853314.037,1087.741699,,4790,,,,,,,,,Base of Pabellon Fm
+host rock,stratigraphy,348215.0032,6868291.322,834.66925,,4790,,,,,,,,,Base of Pabellon Fm
+host rock,stratigraphy,348707.1291,6872550.69,799.329834,,4790,,,,,,,,,Base of Pabellon Fm
+host rock,stratigraphy,348720.5755,6873108.9,791.34314,,4790,,,,,,,,,Base of Pabellon Fm
+host rock,stratigraphy,348741.1122,6870858.507,823.532104,,4790,,,,,,,,,Base of Pabellon Fm
+host rock,stratigraphy,348756.4698,6870221.749,796.369629,,4790,,,,,,,,,Base of Pabellon Fm
+host rock,stratigraphy,348796.0722,6871251.628,739.177979,,4790,,,,,,,,,Base of Pabellon Fm
+host rock,stratigraphy,348799.4559,6871223.114,754.917114,,4790,,,,,,,,,Base of Pabellon Fm
+host rock,stratigraphy,348820.2234,6871305.634,735.610291,,4790,,,,,,,,,Base of Pabellon Fm
+host rock,stratigraphy,350700.2365,6880987.28,762.946228,,4790,,,,,,,,,Base of Pabellon Fm
+host rock,stratigraphy,350818.7779,6880573.546,658.327576,,4790,,,,,,,,,Base of Pabellon Fm
+host rock,stratigraphy,351162.8234,6882133.948,818.045471,,4790,,,,,,,,,Base of Pabellon Fm
+host rock,stratigraphy,344328.6199,6846843.539,1584.840332,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,344655.1308,6851189.274,1236.442383,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,344764.866,6847651.094,1356.687744,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,344911.3388,6851947.188,1349.11377,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,345040.602,6847925.481,1263.341675,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,347231.3929,6865393.476,1163.206543,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,347287.5168,6864894.216,1164.826416,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,347481.5293,6866120.243,1021.813171,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,347510.1535,6864112.264,1224.220093,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,347521.3125,6863859.138,1201.804443,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,347528.9482,6863994.701,1195.296997,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,347550.6129,6863910.153,1209.00708,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,347559.8423,6866245.778,990.421387,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,347668.9617,6866378.305,962.039551,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,347843.8288,6866676.311,947.136902,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,348005.8159,6866804.7,923.96106,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,348067.2364,6866870.141,916.521851,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,348362.9654,6867192.802,900.586853,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,348610.8622,6867443.75,856.070984,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,348731.4382,6867575.228,844.934448,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,349525.6322,6870821.016,733.651855,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,351779.2939,6881759.927,841.359009,,5230,,,,,,,,,Base of Cerrillos Fm
+host rock,stratigraphy,302887.109,6859652.585,320.171783,,,32,5,,,,,,,
+host rock,stratigraphy,305912.3507,6857015.588,562.249207,,,65,25,,,,,,,
+host rock,stratigraphy,306602.5857,6859119.557,584.702454,,,24,30,,,,,,,
+host rock,stratigraphy,309396.7899,6860824.354,618.969543,,,25,40,,,,,,,
+host rock,stratigraphy,312091.2011,6853414.724,635.435303,,,44,35,,,,,,,
+host rock,stratigraphy,312299.1032,6869011.539,844.65271,,,190,10,,,,,,,
+host rock,stratigraphy,313188.9242,6859951.166,678.062134,,,13,30,,,,,,,
+host rock,stratigraphy,313438.4068,6857922.041,521.762329,,,26,52,,,,,,,
+host rock,stratigraphy,313887.4753,6857589.398,534.955139,,,1,35,,,,,,,
+host rock,stratigraphy,315168.1522,6853664.206,592.525208,,,1,1,,,,,,,"Synthetic data, dip considering modified profile"
+host rock,stratigraphy,316573.3398,6858836.077,824.646484,,,25,1,,,,,,,
+host rock,stratigraphy,317039.9158,6859613.704,758.676453,,,30,1,,,,,,,
+host rock,stratigraphy,317995.6208,6858587.328,803.865112,,,1,1,,,,,,,"Synthetic data, dip considering modified profile"
+host rock,stratigraphy,319500.832,6856549.887,728.220825,,,8,70,,,,,,,
+host rock,stratigraphy,319800.211,6856034.29,732.842285,,,3,35,,,,,,,
+host rock,stratigraphy,320049.6935,6851976.041,847.90155,,,22,58,,,,,,,
+host rock,stratigraphy,320457.1817,6864707.966,548.687439,,,1,1,,,,,,,"Synthetic data, dip considering modified profile"
+host rock,stratigraphy,322195.2432,6847834.631,523.25354,,,205,15,,,,,,,
+host rock,stratigraphy,322245.1397,6866895.096,587.375793,,,202,20,,,,,,,
+host rock,stratigraphy,331609.0503,6850412.617,644.187012,,,16,29,,,,,,,
+host rock,stratigraphy,331625.6825,6849414.687,635.351868,,,13,19,,,,,,,
+host rock,stratigraphy,331908.4293,6851177.697,658.957214,,,35,20,,,,,,,
+host rock,stratigraphy,332091.3832,6851892.88,679.990356,,,12,1,,,,,,,
+host rock,stratigraphy,338528.0322,6876608.282,575.260864,,,353,10,,,,,,,
+host rock,stratigraphy,339043.6294,6848932.354,1128.899658,,,33,10,,,,,,,
+host rock,stratigraphy,339243.2154,6856782.738,1036.807251,,,10,1,,,,,,,
+host rock,stratigraphy,340440.7315,6859876.321,935.064514,,,46,1,,,,,,,
+host rock,stratigraphy,341039.4896,6857132.013,983.546997,,,16,1,,,,,,,
+host rock,stratigraphy,341056.1217,6878404.556,754.483276,,,21,1,,,,,,,
+host rock,stratigraphy,341455.2938,6881032.439,711.108337,,,31,12,,,,,,,
+host rock,stratigraphy,342253.6378,6877539.683,650.772644,,,90,1,,,,,,,
+host rock,stratigraphy,343950.119,6862129.98,956.634766,,,2,2,,,,,,,
+host rock,stratigraphy,345247.4281,6859369.04,1076.437256,,,183,1,,,,,,,
+host rock,stratigraphy,345613.3358,6857335.757,1389.635864,,,27,28,,,,,,,
+host rock,stratigraphy,345995.8756,6868928.378,900.435486,,,349,1,,,,,,,
+host rock,stratigraphy,347542.6672,6876196.636,759.942322,,,22,2,,,,,,,
+host rock,stratigraphy,347742.2533,6864404.429,1361.978394,,,351,1,,,,,,,
+host rock,stratigraphy,349255.7805,6871855.64,732.518982,,,1,44,,,,,,,
+host rock,stratigraphy,343530.7609,6856920.767,996.91925,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,343556.5899,6857173.869,999.577087,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,343575.8598,6858962.044,985.035278,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,343623.8142,6859210.65,977.55542,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,343629.2465,6858768.486,988.538147,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,343661.4872,6857867.158,1011.588562,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,343677.321,6859097.623,977.170349,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,343691.9126,6857541.045,985.363281,,4300,,,,,,,,,Base of Nantoco Fm
+host rock,stratigraphy,343748.2162,6858762.518,978.477966,,4300,,,,,,,,,Base of Nantoco Fm
+Infiernillo Plutonic Complex,intrusion,304509.1583,6851799.81,519.671082,,,,,,,,,TRUE,,Infiernillo Shear Zone
+Infiernillo Plutonic Complex,intrusion,304950.4967,6852371.916,634.16394,,,,,,,,,TRUE,,Infiernillo Shear Zone
+Infiernillo Plutonic Complex,intrusion,305538.9479,6853319.976,584.724609,,,,,,,,,TRUE,,Infiernillo Shear Zone
+Infiernillo Plutonic Complex,intrusion,305914.9028,6853924.773,546.119751,,,,,,,,,TRUE,,Infiernillo Shear Zone
+Infiernillo Plutonic Complex,intrusion,306388.933,6855068.984,513.519958,,,,,,,,,TRUE,,Infiernillo Shear Zone
+Infiernillo Plutonic Complex,intrusion,306781.2338,6856474.728,460.899689,,,,,,,,,TRUE,,Infiernillo Shear Zone
+Infiernillo Plutonic Complex,intrusion,307140.8429,6857537.209,413.96524,,,,,,,,,TRUE,,Infiernillo Shear Zone
+Infiernillo Plutonic Complex,intrusion,307451.4143,6858403.54,469.209534,,,,,,,,,TRUE,,Infiernillo Shear Zone
+Infiernillo Plutonic Complex,intrusion,308007.1738,6858844.879,485.645905,,,,,,,,,TRUE,,Infiernillo Shear Zone
+Infiernillo Plutonic Complex,intrusion,308513.8957,6859596.789,629.575745,,,,,,,,,TRUE,,Infiernillo Shear Zone
+Infiernillo Plutonic Complex,intrusion,308808.1213,6860201.586,723.312134,,,,,,,,,TRUE,,Infiernillo Shear Zone
+Infiernillo Plutonic Complex,intrusion,309383.1084,6850565.844,705.240234,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,309437.0696,6850698.399,709.235474,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,309501.9133,6850714.91,701.549316,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,309576.377,6860626.578,604.449097,,,,,,,,,TRUE,,Infiernillo Shear Zone
+Infiernillo Plutonic Complex,intrusion,309903.2944,6860969.842,546.981018,,,,,,,,,TRUE,,Infiernillo Shear Zone
+Infiernillo Plutonic Complex,intrusion,310388.7859,6851492.774,658.74707,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,310393.6704,6861313.105,510.356659,,,,,,,,,TRUE,,Infiernillo Shear Zone
+Infiernillo Plutonic Complex,intrusion,310720.5877,6861509.255,537.903748,,,,,,,,,TRUE,,Infiernillo Shear Zone
+Infiernillo Plutonic Complex,intrusion,311080.1968,6861819.827,499.279877,,,,,,,,,TRUE,,Infiernillo Shear Zone
+Infiernillo Plutonic Complex,intrusion,311280.8868,6867446.276,709.471924,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,311301.6819,6867233.204,687.799255,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,311567.3973,6866357.926,750.529968,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,311664.3445,6866222.888,737.805969,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,311743.8929,6852636.314,596.869812,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,311753.9741,6852834.89,650.107239,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,311754.4589,6865918.29,721.290955,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,311820.7095,6867845.461,749.808167,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,311871.6014,6865664.213,743.936218,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,311933.3934,6853167.531,615.518494,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,311970.0724,6853309.087,634.829956,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,312033.9546,6867949.016,689.682312,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,312237.8107,6853552.209,596.714478,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,312248.6,6868235.183,698.490173,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,312332.4924,6853659.267,613.764771,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,312589.893,6853783.857,557.585388,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,312605.4607,6869383.33,726.340149,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,312696.1417,6853821.888,551.813354,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,312712.6439,6869567.461,688.317505,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,312766.6085,6853864.917,550.6073,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,312976.3889,6856261.422,520.723267,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,312988.3994,6856105.36,519.377991,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,313014.1366,6855835.254,520.047729,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,313020.2562,6860667.319,669.016052,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,313041.0123,6860584.751,647.863464,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,313091.1756,6860495.669,617.667725,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,313134.3147,6860246.072,631.833801,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,313262.6099,6872811.245,485.277466,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,313287.085,6858066.702,596.446655,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,313315.7663,6858162.745,592.976379,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,313346.4653,6871117.495,707.011658,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,313370.0802,6870787.853,716.586426,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,313397.8372,6858584.965,589.801331,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,313440.608,6858804.091,579.894958,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,313465.4254,6872968.926,523.987915,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,313559.0411,6862149.409,602.127014,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,313682.9677,6873003.557,569.174683,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,313683.5875,6872038.105,571.320557,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,313769.4806,6871295.802,692.637085,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,313876.9822,6862431.613,629.848633,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,314130.0476,6862646.272,642.003967,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,314229.4226,6862710.856,652.035278,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,314252.3977,6873184.942,643.638916,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,314676.2317,6873255.699,691.409058,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,314856.1898,6873615.463,599.701294,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,314898.4522,6873978.155,557.059509,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,314959.7802,6874304.84,531.845459,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,315148.3405,6875060.294,368.077606,,,,,,,,roof,,,Contact between IPC and La Negra Fm
+Infiernillo Plutonic Complex,intrusion,315223.6766,6863643.358,533.444641,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,315285.2913,6863682.325,532.184021,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,315430.4556,6863747.733,525.425171,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,316018.1101,6864041.876,530.480774,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,318681.8228,6865905.089,498.488098,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,319240.7731,6865852.116,539.062805,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,319412.5252,6865861.636,506.103241,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,319463.3055,6865888.653,497.622681,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex,intrusion,319995.4555,6866122.268,472.783722,,,,,,,,roof,,,Contact between Infiernillo and host rock at the surface level
+Infiernillo Plutonic Complex Frame,intrusion frame,309108.123,6854831.299,470.67746,2,0,,,,,,,,,
+Infiernillo Plutonic Complex Frame,intrusion frame,312593.4801,6862604.235,555.503235,1,0,,,,,,,,,
+Infiernillo Plutonic Complex Frame,intrusion frame,312646.3247,6862490.923,569.862,2,0,,,,,,,,,
+Infiernillo Plutonic Complex Frame,intrusion frame,314370.8031,6865682.812,566.971619,2,0,,,,,,,,,
+Infiernillo Plutonic Complex Frame,intrusion frame,315830.747,6867237.969,503.974609,2,0,,,,,,,,,
+Infiernillo Plutonic Complex Frame,intrusion frame,316846.3601,6868856.603,548.04364,2,0,,,,,,,,,
+Infiernillo Plutonic Complex Frame,intrusion frame,317608.0699,6871046.519,450.028687,2,0,,,,,,,,,
+Infiernillo Plutonic Complex Frame,intrusion frame,309108.123,6854831.299,470.67746,2,,,,0.96,-0.26,0.09,,,,
+Infiernillo Plutonic Complex Frame,intrusion frame,312646.3247,6862490.923,569.862,2,,,,0.96,-0.26,0.09,,,,
+Infiernillo Plutonic Complex Frame,intrusion frame,312656.9559,6862413.807,551.579102,1,,,,0.34,0.94,0,,,,
+Infiernillo Plutonic Complex Frame,intrusion frame,317639.8079,6871141.732,442.344177,2,,,,0.96,-0.26,0.09,,,,
+Infiernillo Shear Zone,Shear Zone,304509.158,6851799.81,519.671,0,0,,,,,,,,,Controls emplacement of Infiernillo PC
+Infiernillo Shear Zone,Shear Zone,304950.497,6852371.916,634.164,0,0,,,,,,,,,Controls emplacement of Infiernillo PC
+Infiernillo Shear Zone,Shear Zone,305538.948,6853319.976,584.725,0,0,,,,,,,,,Controls emplacement of Infiernillo PC
+Infiernillo Shear Zone,Shear Zone,305914.903,6853924.773,546.12,0,0,,,,,,,,,Controls emplacement of Infiernillo PC
+Infiernillo Shear Zone,Shear Zone,306388.933,6855068.984,513.52,0,0,,,,,,,,,Controls emplacement of Infiernillo PC
+Infiernillo Shear Zone,Shear Zone,306781.234,6856474.728,460.9,0,0,,,,,,,,,Controls emplacement of Infiernillo PC
+Infiernillo Shear Zone,Shear Zone,306781.234,6856474.728,460.9,1,0,,,,,,,,,Controls emplacement of Infiernillo PC
+Infiernillo Shear Zone,Shear Zone,307140.843,6857537.209,413.965,0,0,,,,,,,,,Controls emplacement of Infiernillo PC
+Infiernillo Shear Zone,Shear Zone,307451.414,6858403.54,469.21,0,0,,,,,,,,,Controls emplacement of Infiernillo PC
+Infiernillo Shear Zone,Shear Zone,308007.174,6858844.879,485.646,0,0,,,,,,,,,Controls emplacement of Infiernillo PC
+Infiernillo Shear Zone,Shear Zone,308513.896,6859596.789,629.576,0,0,,,,,,,,,Controls emplacement of Infiernillo PC
+Infiernillo Shear Zone,Shear Zone,308808.121,6860201.586,723.312,0,0,,,,,,,,,Controls emplacement of Infiernillo PC
+Infiernillo Shear Zone,Shear Zone,309576.377,6860626.578,604.449,0,0,,,,,,,,,Controls emplacement of Infiernillo PC
+Infiernillo Shear Zone,Shear Zone,309903.294,6860969.842,546.981,0,0,,,,,,,,,Controls emplacement of Infiernillo PC
+Infiernillo Shear Zone,Shear Zone,310393.67,6861313.105,510.357,0,0,,,,,,,,,Controls emplacement of Infiernillo PC
+Infiernillo Shear Zone,Shear Zone,310720.588,6861509.255,537.904,0,0,,,,,,,,,Controls emplacement of Infiernillo PC
+Infiernillo Shear Zone,Shear Zone,311080.197,6861819.827,499.28,0,0,,,,,,,,,Controls emplacement of Infiernillo PC
+Infiernillo Shear Zone,Shear Zone,312762.969,6863686.524,511.281,0,0,,,,,,,,,Interpreted
+Infiernillo Shear Zone,Shear Zone,314415.426,6865688.913,558.462,0,0,,,,,,,,,Interpreted
+Infiernillo Shear Zone,Shear Zone,315854.035,6867283.047,498.593,0,0,,,,,,,,,Interpreted
+Infiernillo Shear Zone,Shear Zone,316845.509,6868779.979,552.698,0,0,,,,,,,,,Interpreted
+Infiernillo Shear Zone,Shear Zone,317623.136,6871064.257,450.029,0,0,,,,,,,,,Interpreted
+Infiernillo Shear Zone,Shear Zone,318672.932,6875846.662,318.684,0,0,,,,,,,,,Interpreted
+Infiernillo Shear Zone,Shear Zone,306781.234,6856474.728,460.9,0,,,,0.96,-0.26,0.09,,,,Controls emplacement of Infiernillo PC
+Infiernillo Shear Zone,Shear Zone,306781.234,6856474.728,460.9,1,,,,0.08,-0.02,-1,,,,Controls emplacement of Infiernillo PC
+Infiernillo Shear Zone Inverse,Shear Zone,304509.158,6851799.81,519.671,0,0,,,,,,,,,Synthetic fault
+Infiernillo Shear Zone Inverse,Shear Zone,304950.497,6852371.916,634.164,0,0,,,,,,,,,Synthetic fault
+Infiernillo Shear Zone Inverse,Shear Zone,305538.948,6853319.976,584.725,0,0,,,,,,,,,Synthetic fault
+Infiernillo Shear Zone Inverse,Shear Zone,305914.903,6853924.773,546.12,0,0,,,,,,,,,Synthetic fault
+Infiernillo Shear Zone Inverse,Shear Zone,306388.933,6855068.984,513.52,0,0,,,,,,,,,Synthetic fault
+Infiernillo Shear Zone Inverse,Shear Zone,306781.234,6856474.728,460.9,0,0,,,,,,,,,Synthetic fault
+Infiernillo Shear Zone Inverse,Shear Zone,306781.234,6856474.728,460.9,1,0,,,,,,,,,Synthetic fault
+Infiernillo Shear Zone Inverse,Shear Zone,307140.843,6857537.209,413.965,0,0,,,,,,,,,Synthetic fault
+Infiernillo Shear Zone Inverse,Shear Zone,307451.414,6858403.54,469.21,0,0,,,,,,,,,Synthetic fault
+Infiernillo Shear Zone Inverse,Shear Zone,308007.174,6858844.879,485.646,0,0,,,,,,,,,Synthetic fault
+Infiernillo Shear Zone Inverse,Shear Zone,308513.896,6859596.789,629.576,0,0,,,,,,,,,Synthetic fault
+Infiernillo Shear Zone Inverse,Shear Zone,308808.121,6860201.586,723.312,0,0,,,,,,,,,Synthetic fault
+Infiernillo Shear Zone Inverse,Shear Zone,309576.377,6860626.578,604.449,0,0,,,,,,,,,Synthetic fault
+Infiernillo Shear Zone Inverse,Shear Zone,309903.294,6860969.842,546.981,0,0,,,,,,,,,Synthetic fault
+Infiernillo Shear Zone Inverse,Shear Zone,310393.67,6861313.105,510.357,0,0,,,,,,,,,Synthetic fault
+Infiernillo Shear Zone Inverse,Shear Zone,310720.588,6861509.255,537.904,0,0,,,,,,,,,Synthetic fault
+Infiernillo Shear Zone Inverse,Shear Zone,311080.197,6861819.827,499.28,0,0,,,,,,,,,Synthetic fault
+Infiernillo Shear Zone Inverse,Shear Zone,306781.234,6856474.728,460.9,0,,,,0.96,-0.26,0.09,,,,Synthetic fault
+Infiernillo Shear Zone Inverse,Shear Zone,306781.234,6856474.728,460.9,1,,,,0.08,-0.02,1,,,,Synthetic fault
+Los Burros FTB Inverse,Los Burros FTB,344246.531,6855493.129,1087.801,0,0,,,,,,,,,
+Los Burros FTB Inverse,Los Burros FTB,344286.297,6854518.876,982.906,0,0,,,,,,,,,
+Los Burros FTB Inverse,Los Burros FTB,344355.886,6853176.791,1136.94,0,0,,,,,,,,,
+Los Burros FTB Inverse,Los Burros FTB,344435.417,6856358.028,1073.835,0,0,,,,,,,,,
+Los Burros FTB Inverse,Los Burros FTB,344564.655,6856959.481,1104.162,0,0,,,,,,,,,
+Los Burros FTB Inverse,Los Burros FTB,344753.541,6857536.08,1150.589,0,0,,,,,,,,,
+Los Burros FTB Inverse,Los Burros FTB,344872.837,6863341.837,898.331,0,0,,,,,,,,,
+Los Burros FTB Inverse,Los Burros FTB,345141.254,6858023.207,1149.197,0,0,,,,,,,,,
+Los Burros FTB Inverse,Los Burros FTB,345190.961,6862884.534,918.353,0,0,,,,,,,,,
+Los Burros FTB Inverse,Los Burros FTB,345210.844,6858391.037,1153.35,0,0,,,,,,,,,
+Los Burros FTB Inverse,Los Burros FTB,345389.788,6859057.109,1109.49,0,0,,,,,,,,,
+Los Burros FTB Inverse,Los Burros FTB,345469.319,6859693.356,1127.498,0,0,,,,,,,,,
+Los Burros FTB Inverse,Los Burros FTB,345509.085,6862307.935,900.052,0,0,,,,,,,,,
+Los Burros FTB Inverse,Los Burros FTB,345707.912,6861930.163,936.496,0,0,,,,,,,,,
+Los Burros FTB Inverse,Los Burros FTB,345727.795,6861691.57,965.726,0,0,,,,,,,,,
+Los Burros FTB Inverse,Los Burros FTB,345727.795,6860687.493,1061.73,0,0,,,,,,,,,
+Los Burros FTB Inverse,Los Burros FTB,345787.443,6861373.447,937.389,0,0,,,,,,,,,
+Los Burros FTB Inverse,Los Burros FTB,345787.443,6861373.447,937.389,1,0,,,,,,,,,
+Los Burros FTB Inverse,Los Burros FTB,345787.443,6861373.447,937.389,0,,,,0.9,-0.08,0.42,,,,
+Los Burros FTB Inverse,Los Burros FTB,345787.443,6861373.447,937.389,1,,,,0.42,-0.04,0.91,,,,
+Los Burros FTB Normal,Los Burros FTB,344246.531,6855493.129,1087.801,0,0,,,,,,,,,
+Los Burros FTB Normal,Los Burros FTB,344286.297,6854518.876,982.906,0,0,,,,,,,,,
+Los Burros FTB Normal,Los Burros FTB,344355.886,6853176.791,1136.94,0,0,,,,,,,,,
+Los Burros FTB Normal,Los Burros FTB,344435.417,6856358.028,1073.835,0,0,,,,,,,,,
+Los Burros FTB Normal,Los Burros FTB,344564.655,6856959.481,1104.162,0,0,,,,,,,,,
+Los Burros FTB Normal,Los Burros FTB,344753.541,6857536.08,1150.589,0,0,,,,,,,,,
+Los Burros FTB Normal,Los Burros FTB,344872.837,6863341.837,898.331,0,0,,,,,,,,,
+Los Burros FTB Normal,Los Burros FTB,345141.254,6858023.207,1149.197,0,0,,,,,,,,,
+Los Burros FTB Normal,Los Burros FTB,345190.961,6862884.534,918.353,0,0,,,,,,,,,
+Los Burros FTB Normal,Los Burros FTB,345210.844,6858391.037,1153.35,0,0,,,,,,,,,
+Los Burros FTB Normal,Los Burros FTB,345389.788,6859057.109,1109.49,0,0,,,,,,,,,
+Los Burros FTB Normal,Los Burros FTB,345469.319,6859693.356,1127.498,0,0,,,,,,,,,
+Los Burros FTB Normal,Los Burros FTB,345509.085,6862307.935,900.052,0,0,,,,,,,,,
+Los Burros FTB Normal,Los Burros FTB,345707.912,6861930.163,936.496,0,0,,,,,,,,,
+Los Burros FTB Normal,Los Burros FTB,345727.795,6861691.57,965.726,0,0,,,,,,,,,
+Los Burros FTB Normal,Los Burros FTB,345727.795,6860687.493,1061.73,0,0,,,,,,,,,
+Los Burros FTB Normal,Los Burros FTB,345787.443,6861373.447,937.389,0,0,,,,,,,,,
+Los Burros FTB Normal,Los Burros FTB,345787.443,6861373.447,937.389,1,0,,,,,,,,,
+Los Burros FTB Normal,Los Burros FTB,345787.443,6861373.447,937.389,0,,,,0.9,-0.08,0.42,,,,
+Los Burros FTB Normal,Los Burros FTB,345787.443,6861373.447,937.389,1,,,,0.42,-0.04,-0.91,,,,
+Los Burros Shear Zone,Los Burros FTB,345936.563,6856263.585,1195.067,0,0,,,,,,,,,
+Los Burros Shear Zone,Los Burros FTB,345976.329,6853251.352,1216.725,0,0,,,,,,,,,
+Los Burros Shear Zone,Los Burros FTB,345996.212,6854692.85,1139.63,0,0,,,,,,,,,
+Los Burros Shear Zone,Los Burros FTB,346035.977,6853470.062,1172.512,0,0,,,,,,,,,
+Los Burros Shear Zone,Los Burros FTB,346065.801,6853947.247,1153.488,0,0,,,,,,,,,
+Los Burros Shear Zone,Los Burros FTB,346075.743,6856879.95,1266.969,0,0,,,,,,,,,
+Los Burros Shear Zone,Los Burros FTB,346115.508,6855667.103,1228.622,0,0,,,,,,,,,
+Los Burros Shear Zone,Los Burros FTB,346711.99,6857893.969,1293.709,0,0,,,,,,,,,
+Los Burros Shear Zone,Los Burros FTB,347487.416,6859405.057,1274.135,0,0,,,,,,,,,
+Los Burros Shear Zone,Los Burros FTB,348402.022,6860478.724,1120.636,0,0,,,,,,,,,
+Los Burros Shear Zone,Los Burros FTB,348580.966,6862486.88,1178.72,0,0,,,,,,,,,
+Los Burros Shear Zone,Los Burros FTB,348600.849,6861890.398,1097.316,0,0,,,,,,,,,
+Los Burros Shear Zone,Los Burros FTB,348600.849,6861890.398,1097.316,1,0,,,,,,,,,
+Los Burros Shear Zone,Los Burros FTB,348620.732,6860816.73,1171.004,0,0,,,,,,,,,
+Los Burros Shear Zone,Los Burros FTB,348700.263,6863242.423,1068.107,0,0,,,,,,,,,
+Los Burros Shear Zone,Los Burros FTB,348759.911,6861134.854,1057.351,0,0,,,,,,,,,
+Los Burros Shear Zone,Los Burros FTB,348879.207,6864037.733,949.84,0,0,,,,,,,,,
+Los Burros Shear Zone,Los Burros FTB,349197.331,6864753.511,902.756,0,0,,,,,,,,,
+Los Burros Shear Zone,Los Burros FTB,349555.22,6865568.703,880.185,0,0,,,,,,,,,
+Los Burros Shear Zone,Los Burros FTB,350131.819,6866622.487,816.069,0,0,,,,,,,,,
+Los Burros Shear Zone,Los Burros FTB,351066.308,6867934.748,807.902,0,0,,,,,,,,,
+Los Burros Shear Zone,Los Burros FTB,348600.849,6861890.398,1097.316,0,,,,0.98,0,0.17,,,,
+Los Burros Shear Zone,Los Burros FTB,348600.849,6861890.398,1097.316,1,,,,0.17,0,-0.98,,,,
+Los Colorados FTB East Fault,Fold and Thrust Belt,320519.935,6857464.419,742.029,0,0,,,,,,,,,Normal fault post intrusion
+Los Colorados FTB East Fault,Fold and Thrust Belt,320526.065,6857629.921,755.646,0,0,,,,,,,,,Normal fault post intrusion
+Los Colorados FTB East Fault,Fold and Thrust Belt,320538.324,6857341.825,737.082,0,0,,,,,,,,,Normal fault post intrusion
+Los Colorados FTB East Fault,Fold and Thrust Belt,320562.843,6857868.98,773.22,0,0,,,,,,,,,Normal fault post intrusion
+Los Colorados FTB East Fault,Fold and Thrust Belt,320568.972,6856955.654,735.618,0,0,,,,,,,,,Normal fault post intrusion
+Los Colorados FTB East Fault,Fold and Thrust Belt,320568.972,6858518.728,740.921,0,0,,,,,,,,,Normal fault post intrusion
+Los Colorados FTB East Fault,Fold and Thrust Belt,320581.232,6856851.449,734.134,0,0,,,,,,,,,Normal fault post intrusion
+Los Colorados FTB East Fault,Fold and Thrust Belt,320581.232,6858108.038,764.395,0,0,,,,,,,,,Normal fault post intrusion
+Los Colorados FTB East Fault,Fold and Thrust Belt,320593.491,6858432.912,776.531,0,0,,,,,,,,,Normal fault post intrusion
+Los Colorados FTB East Fault,Fold and Thrust Belt,320636.399,6856459.148,718.068,0,0,,,,,,,,,Normal fault post intrusion
+Los Colorados FTB East Fault,Fold and Thrust Belt,320746.734,6856011.68,687.143,1,0,,,,,,,,,Normal fault post intrusion
+Los Colorados FTB East Fault,Fold and Thrust Belt,320746.734,6856011.68,687.143,0,0,,,,,,,,,Normal fault post intrusion
+Los Colorados FTB East Fault,Fold and Thrust Belt,320893.847,6855637.769,694.912,0,0,,,,,,,,,Normal fault post intrusion
+Los Colorados FTB East Fault,Fold and Thrust Belt,321071.608,6855239.338,695.276,0,0,,,,,,,,,Normal fault post intrusion
+Los Colorados FTB East Fault,Fold and Thrust Belt,321163.553,6854951.242,701.341,0,0,,,,,,,,,Normal fault post intrusion
+Los Colorados FTB East Fault,Fold and Thrust Belt,321206.461,6854742.832,703.6,0,0,,,,,,,,,Normal fault post intrusion
+Los Colorados FTB East Fault,Fold and Thrust Belt,321267.758,6854326.013,687.839,0,0,,,,,,,,,Normal fault post intrusion
+Los Colorados FTB East Fault,Fold and Thrust Belt,321359.704,6854025.658,702.008,0,0,,,,,,,,,Normal fault post intrusion
+Los Colorados FTB East Fault,Fold and Thrust Belt,321371.963,6853909.193,714.274,0,0,,,,,,,,,Normal fault post intrusion
+Los Colorados FTB East Fault,Fold and Thrust Belt,320746.734,6856011.68,687.143,0,,,,-0.95,-0.25,0.17,,,,Normal fault post intrusion
+Los Colorados FTB East Fault,Fold and Thrust Belt,320746.734,6856011.68,687.143,1,,,,-0.17,-0.04,-0.98,,,,Normal fault post intrusion
+Los Colorados FTB West Fault,Fold and Thrust Belt,315560.975,6854574.543,552.353,0,0,,,,,,,,,
+Los Colorados FTB West Fault,Fold and Thrust Belt,316163.995,6856335.997,671.391,0,0,,,,,,,,,
+Los Colorados FTB West Fault,Fold and Thrust Belt,316703.539,6857383.348,651.161,0,0,,,,,,,,,
+Los Colorados FTB West Fault,Fold and Thrust Belt,316957.443,6858192.665,700.967,0,0,,,,,,,,,
+Los Colorados FTB West Fault,Fold and Thrust Belt,316957.443,6858192.665,700.967,1,0,,,,,,,,,
+Los Colorados FTB West Fault,Fold and Thrust Belt,317608.07,6859065.458,719.478,0,0,,,,,,,,,
+Los Colorados FTB West Fault,Fold and Thrust Belt,318401.518,6859906.512,693.693,0,0,,,,,,,,,
+Los Colorados FTB West Fault,Fold and Thrust Belt,319210.834,6861699.704,634.476,0,0,,,,,,,,,
+Los Colorados FTB West Fault,Fold and Thrust Belt,319671.034,6863032.696,546.625,0,0,,,,,,,,,
+Los Colorados FTB West Fault,Fold and Thrust Belt,320432.744,6864238.737,537.17,0,0,,,,,,,,,
+Los Colorados FTB West Fault,Fold and Thrust Belt,316957.443,6858192.665,700.967,0,,,,0.94,-0.34,0.09,,,,
+Los Colorados FTB West Fault,Fold and Thrust Belt,316957.443,6858192.665,700.967,1,,,,0.08,-0.03,-1,,,,
+Los Colorados Main Fault Normal,Normal fault,304460.121,6824575.769,736.523,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,304607.234,6824968.07,716.192,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,304787.038,6825605.559,727.691,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,304983.188,6826373.814,847.453,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,304983.188,6826079.589,805.482,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,305097.61,6826815.153,806.847,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,305146.647,6827338.22,841.682,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,305310.106,6828024.747,978.583,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,305800.482,6828854.3,812.757,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,305963.94,6829540.826,743.081,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,306274.512,6830358.119,658.085,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,306748.542,6831175.413,605.699,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,307157.189,6832303.278,546.53,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,307598.527,6833414.796,510.701,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,308007.174,6834395.548,471.501,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,308546.587,6835261.879,433.384,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,308955.234,6836013.789,400.696,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,309200.422,6836896.466,388.711,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,309592.723,6838089.714,354.058,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,309903.294,6838874.316,332.332,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,310606.167,6840496.643,316.005,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,311202.791,6841935.08,279.407,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,311791.242,6843520.629,247.819,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,312183.543,6844194.896,285.429,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,312412.385,6845028.535,351.164,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,312608.535,6845535.257,374.38,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,313033.528,6846221.783,444.124,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,313033.528,6846221.783,444.124,1,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,313213.332,6846990.039,465.346,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,313523.904,6847823.678,544.923,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,313867.167,6848346.746,590.027,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,314112.355,6849327.498,727.15,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,314324.851,6849556.34,739.181,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,314406.581,6849834.22,783.91,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,314488.31,6851284.915,691.309,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,314700.806,6850242.866,828.244,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,314978.686,6852102.209,638.483,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,315828.671,6853426.224,580.598,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,316319.047,6854063.713,583.722,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,316531.543,6854456.014,648.082,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,317414.22,6855600.224,586.014,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,317555.771,6856094.773,572.605,1,0,,,,,,,,,
+Los Colorados Main Fault Normal,Normal fault,317757.483,6856531.939,587.439,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,317839.213,6856826.164,619.158,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,318100.747,6857365.578,631.031,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,318378.626,6858101.142,661.677,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,318803.619,6859073.721,754.586,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,319228.611,6860168.894,722.512,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,319310.341,6860822.729,692.362,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,319555.529,6861411.18,739.175,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,319686.296,6861590.984,678.078,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,319996.867,6862293.857,621.767,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,320421.86,6863454.413,559.68,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,320781.469,6864353.436,577.002,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,321222.807,6865301.496,604.889,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,321467.995,6866380.323,514.606,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,321909.334,6867900.489,515.687,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,322383.364,6868897.587,422.501,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,322693.935,6869796.61,473.655,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,323069.89,6870532.174,371.168,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,313033.528,6846221.783,444.124,0,,,,0.91,-0.37,0.17,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,313033.528,6846221.783,444.124,1,,,,0.16,-0.07,-0.98,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Normal,Normal fault,317555.771,6856094.773,572.605,0,,,,0.91,-0.37,0.17,,,,
+Los Colorados Main Fault Normal,Normal fault,317555.771,6856094.773,572.605,1,,,,0.16,-0.07,-0.98,,,,
+Los Colorados Main Fault Thrust,Inverted fault,304460.121,6824575.769,736.523,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,304607.234,6824968.07,716.192,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,304787.038,6825605.559,727.691,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,304983.188,6826373.814,847.453,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,304983.188,6826079.589,805.482,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,305097.61,6826815.153,806.847,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,305146.647,6827338.22,841.682,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,305310.106,6828024.747,978.583,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,305800.482,6828854.3,812.757,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,305963.94,6829540.826,743.081,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,306274.512,6830358.119,658.085,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,306748.542,6831175.413,605.699,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,307157.189,6832303.278,546.53,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,307598.527,6833414.796,510.701,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,308007.174,6834395.548,471.501,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,308546.587,6835261.879,433.384,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,308955.234,6836013.789,400.696,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,309200.422,6836896.466,388.711,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,309592.723,6838089.714,354.058,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,309903.294,6838874.316,332.332,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,310606.167,6840496.643,316.005,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,311202.791,6841935.08,279.407,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,311791.242,6843520.629,247.819,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,312183.543,6844194.896,285.429,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,312412.385,6845028.535,351.164,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,312608.535,6845535.257,374.38,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,313033.528,6846221.783,444.124,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,313033.528,6846221.783,444.124,1,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,313213.332,6846990.039,465.346,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,313523.904,6847823.678,544.923,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,313867.167,6848346.746,590.027,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,314112.355,6849327.498,727.15,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,314324.851,6849556.34,739.181,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,314406.581,6849834.22,783.91,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,314488.31,6851284.915,691.309,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,314700.806,6850242.866,828.244,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,314978.686,6852102.209,638.483,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,315828.671,6853426.224,580.598,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,316319.047,6854063.713,583.722,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,316531.543,6854456.014,648.082,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,317414.22,6855600.224,586.014,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,317555.771,6856094.773,572.605,1,0,,,,,,,,,
+Los Colorados Main Fault Thrust,Inverted fault,317757.483,6856531.939,587.439,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,317839.213,6856826.164,619.158,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,318100.747,6857365.578,631.031,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,318378.626,6858101.142,661.677,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,318803.619,6859073.721,754.586,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,319228.611,6860168.894,722.512,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,319310.341,6860822.729,692.362,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,319555.529,6861411.18,739.175,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,319686.296,6861590.984,678.078,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,319996.867,6862293.857,621.767,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,320421.86,6863454.413,559.68,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,320781.469,6864353.436,577.002,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,321222.807,6865301.496,604.889,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,321467.995,6866380.323,514.606,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,321909.334,6867900.489,515.687,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,322383.364,6868897.587,422.501,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,322693.935,6869796.61,473.655,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,323069.89,6870532.174,371.168,0,0,,,,,,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,313033.528,6846221.783,444.124,0,,,,0.91,-0.37,0.17,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,313033.528,6846221.783,444.124,1,,,,0.08,-0.03,1,,,,Los Colorados Fold and Thrust Belt
+Los Colorados Main Fault Thrust,Inverted fault,317555.771,6856094.773,572.605,0,,,,0.91,-0.37,0.17,,,,
+Los Colorados Main Fault Thrust,Inverted fault,317555.771,6856094.773,572.605,1,,,,0.08,-0.03,1,,,,
+Quebrada Calavera Fault,Normal Fault,343113.216,6860006.509,874.666,0,0,,,,,,,,,
+Quebrada Calavera Fault,Normal Fault,343272.278,6860583.108,895.947,0,0,,,,,,,,,
+Quebrada Calavera Fault,Normal Fault,343401.515,6861398.3,844.056,0,0,,,,,,,,,
+Quebrada Calavera Fault,Normal Fault,343431.34,6861209.414,845.292,0,0,,,,,,,,,
+Quebrada Calavera Fault,Normal Fault,343431.34,6861209.414,845.292,1,0,,,,,,,,,
+Quebrada Calavera Fault,Normal Fault,343461.164,6862153.844,864.76,0,0,,,,,,,,,
+Quebrada Calavera Fault,Normal Fault,343471.105,6861795.955,875.623,0,0,,,,,,,,,
+Quebrada Calavera Fault,Normal Fault,343431.34,6861209.414,845.292,0,,,,0.95,-0.25,0.17,,,,
+Quebrada Calavera Fault,Normal Fault,343431.34,6861209.414,845.292,1,,,,0.17,-0.04,-0.98,,,,
+Retamilla Plutonic Complex,intrusion,313033.528,6846221.783,444.123657,,,,,,,,,TRUE,,Los Colorados FTB
+Retamilla Plutonic Complex,intrusion,313213.332,6846990.039,465.346375,,,,,,,,,TRUE,,Los Colorados FTB
+Retamilla Plutonic Complex,intrusion,313523.904,6847823.678,544.922729,,,,,,,,,TRUE,,Los Colorados FTB
+Retamilla Plutonic Complex,intrusion,313867.167,6848346.746,590.026672,,,,,,,,,TRUE,,Los Colorados FTB
+Retamilla Plutonic Complex,intrusion,314112.355,6849327.498,727.150452,,,,,,,,,TRUE,,Los Colorados FTB
+Retamilla Plutonic Complex,intrusion,314324.851,6849556.34,739.180664,,,,,,,,,TRUE,,Los Colorados FTB
+Retamilla Plutonic Complex,intrusion,314406.581,6849834.22,783.910095,,,,,,,,,TRUE,,Los Colorados FTB
+Retamilla Plutonic Complex,intrusion,314488.31,6851284.915,691.30896,,,,,,,,,TRUE,,Los Colorados FTB
+Retamilla Plutonic Complex,intrusion,314700.806,6850242.866,828.243713,,,,,,,,,TRUE,,Los Colorados FTB
+Retamilla Plutonic Complex,intrusion,314978.686,6852102.209,638.483337,,,,,,,,,TRUE,,Los Colorados FTB
+Retamilla Plutonic Complex,intrusion,315828.671,6853426.224,580.597656,,,,,,,,,TRUE,,Los Colorados FTB
+Retamilla Plutonic Complex,intrusion,316319.047,6854063.713,583.72229,,,,,,,,,TRUE,,Los Colorados FTB
+Retamilla Plutonic Complex,intrusion,316531.543,6854456.014,648.082153,,,,,,,,,TRUE,,Los Colorados FTB
+Retamilla Plutonic Complex,intrusion,317414.22,6855600.224,586.013916,,,,,,,,,TRUE,,Los Colorados FTB
+Retamilla Plutonic Complex,intrusion,317757.483,6856531.939,587.438843,,,,,,,,,TRUE,,Los Colorados FTB
+Retamilla Plutonic Complex,intrusion,317839.213,6856826.164,619.157715,,,,,,,,,TRUE,,Los Colorados FTB
+Retamilla Plutonic Complex,intrusion,318100.747,6857365.578,631.030823,,,,,,,,,TRUE,,Los Colorados FTB
+Retamilla Plutonic Complex,intrusion,319048.9288,6856434.649,720.651123,,,,,,,,roof,,,Contact between Retamilla and host rock at the surface level
+Retamilla Plutonic Complex,intrusion,319091.4963,6856666.739,723.647827,,,,,,,,roof,,,Contact between Retamilla and host rock at the surface level
+Retamilla Plutonic Complex,intrusion,319103.3804,6856193.027,710.598755,,,,,,,,roof,,,Contact between Retamilla and host rock at the surface level
+Retamilla Plutonic Complex,intrusion,319108.6092,6857346.565,658.902466,,,,,,,,roof,,,Contact between Retamilla and host rock at the surface level
+Retamilla Plutonic Complex,intrusion,319135.7223,6857071.439,710.898499,,,,,,,,roof,,,Contact between Retamilla and host rock at the surface level
+Retamilla Plutonic Complex,intrusion,319142.8633,6857290.545,667.033691,,,,,,,,roof,,,Contact between Retamilla and host rock at the surface level
+Retamilla Plutonic Complex,intrusion,319230.5659,6853376.287,798.637939,,,,,,,,roof,,,Contact between Retamilla and host rock at the surface level
+Retamilla Plutonic Complex,intrusion,319242.3119,6853426.304,799.368652,,,,,,,,roof,,,Contact between Retamilla and host rock at the surface level
+Retamilla Plutonic Complex,intrusion,319253.788,6852847.554,788.172302,,,,,,,,roof,,,Contact between Retamilla and host rock at the surface level
+Retamilla Plutonic Complex,intrusion,319254.9535,6855555.733,697.391907,,,,,,,,roof,,,Contact between Retamilla and host rock at the surface level
+Retamilla Plutonic Complex,intrusion,319257.5162,6853172.19,772.073425,,,,,,,,roof,,,Contact between Retamilla and host rock at the surface level
+Retamilla Plutonic Complex,intrusion,319305.3515,6852047.27,792.980713,,,,,,,,roof,,,Contact between Retamilla and host rock at the surface level
+Retamilla Plutonic Complex,intrusion,319356.5806,6853959.492,748.597961,,,,,,,,roof,,,Contact between Retamilla and host rock at the surface level
+Retamilla Plutonic Complex,intrusion,319393.406,6851012.629,782.105225,,,,,,,,roof,,,Contact between Retamilla and host rock at the surface level
+Retamilla Plutonic Complex,intrusion,319414.8047,6855011.501,695.023132,,,,,,,,roof,,,Contact between Retamilla and host rock at the surface level
+Retamilla Plutonic Complex,intrusion,319525.4878,6849669.798,604.031128,,,,,,,,roof,,,Contact between Retamilla and host rock at the surface level
+Retamilla Plutonic Complex Frame,intrusion frame,316281.7297,6851681.911,682.737,1,0,,,,,,,,,
+Retamilla Plutonic Complex Frame,intrusion frame,316242.8484,6851681.911,677.207703,1,,,,0.34,0.94,0,,,,
+Retamilla Plutonic Complex Frame,intrusion frame,314648.7136,6847716.014,872.148193,2,0,,,,,,,,,
+Retamilla Plutonic Complex Frame,intrusion frame,317176.0005,6853937.028,612.044983,2,0,,,,,,,,,
+Retamilla Plutonic Complex Frame,intrusion frame,318614.61,6857358.586,632.250183,2,0,,,,,,,,,
+Retamilla Plutonic Complex Frame,intrusion frame,314648.7136,6847716.014,872.148193,2,,,,0.91,-0.37,0.17,,,,
+Retamilla Plutonic Complex Frame,intrusion frame,317176.0005,6853937.028,612.044983,2,,,,0.91,-0.37,0.17,,,,
+Retamilla Plutonic Complex Frame,intrusion frame,318614.61,6857358.586,632.250183,2,,,,0.91,-0.37,0.17,,,,
+Retamilla Plutonic Complex Frame model1,intrusion_frame,316765.2291,6846913.813,440,2,0,,,,,,,,,
+Retamilla Plutonic Complex Frame model1,intrusion_frame,317502.6076,6851007.535,440,2,0,,,,,,,,,
+Retamilla Plutonic Complex Frame model1,intrusion_frame,318367.1204,6855660.648,440,2,0,,,,,,,,,
+Retamilla Plutonic Complex Frame model1,intrusion_frame,318748.5231,6857999.918,440,2,0,,,,,,,,,
+Retamilla Plutonic Complex Frame model1,intrusion_frame,316765.2291,6846913.813,440,2,,,,0.98,-0.21,0,,,,
+Retamilla Plutonic Complex Frame model1,intrusion_frame,317502.6076,6851007.535,440,2,,,,0.98,-0.21,0,,,,
+Retamilla Plutonic Complex Frame model1,intrusion_frame,318367.1204,6855660.648,440,2,,,,0.98,-0.21,0,,,,
+Retamilla Plutonic Complex Frame model1,intrusion_frame,318748.5231,6857999.918,440,2,,,,0.98,-0.21,0,,,,
+Retamilla Plutonic Complex Frame model1,intrusion_frame,317502.6076,6851007.535,440,1,0,,,,,,,,,
+Retamilla Plutonic Complex Frame model1,intrusion_frame,317502.6076,6851007.535,440,1,,,,0.12,0.99,0,,,,
